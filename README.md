@@ -1,5 +1,5 @@
 ### Привет! 👋
-![](https://i.pinimg.com/originals/48/37/23/483723e0f94bd43ef7b9716aa0d3ce86.gif)
+<img src="https://i.pinimg.com/originals/48/37/23/483723e0f94bd43ef7b9716aa0d3ce86.gif" alt="описание" width="1000" height="400">
 
 ### ✨ Обо мне за 30 секунд ✨ 
 * 🎓 Образование:
