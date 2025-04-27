@@ -36,8 +36,8 @@
 
 ### ✨ About me in 30 seconds ✨ 
 * 🎓 Education:
- - 2024-2026 Volga Region State University of Telecommunications and Informatics, Samara (Faculty of Cybersecurity and Management, specialty: management in technical systems).
- - 2021-2024 Volga Region State University of Telecommunications and Informatics, Samara (Faculty of Cybersecurity and Management, specialty: software engineering).
+  - 2024-2026 Volga Region State University of Telecommunications and Informatics, Samara (Faculty of Cybersecurity and Management, specialty: management in technical systems).
+  - 2021-2024 Volga Region State University of Telecommunications and Informatics, Samara (Faculty of Cybersecurity and Management, specialty: software engineering).
 * 💻 Courses:
   - 2024-2026 Course "Data scientist".
   - 2025 "Algorithms and data structures".
