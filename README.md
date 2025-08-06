@@ -19,12 +19,11 @@
 - Умения: 
     * Языки: SQL, Python
     * Базы данных: -
-    * Визуализация: -
+    * Визуализация: Matplotlib, Seaborn, Plotly
 
 ### ⚡️ В настоящее время ⚡️
 - Учусь в университете.
 - Изучаю курсы SkillFactory и VK Education.
-- Работаю в компании «ТТК Интеграция» (Инженер-сметчик).
 
 ### 🙌🏻 Свяжись со мной
 - [Telegram](https://t.me/BloodFlame)
@@ -51,13 +50,12 @@
   - Skills:
     * Language: SQL, Python
     * Database: -
-    * Visualization: -
+    * Visualization: Matplotlib, Seaborn, Plotly 
 
 
 ### ⚡️ Currently ⚡️
 - I study at university.
 - I am studying SkillFactory and VK Education courses.
-- I work at the company "TTK Integration" (Engineer-estimator).
 
 ### 🙌🏻 Contact me
 - [Telegram](https://t.me/BloodFlame)
